@@ -1,0 +1,20 @@
+/* donut graph container */
+.donut-graph-container {
+  padding: 18px 0;
+  float: left;
+  width: 30%;
+  text-align: center;
+  background-color: #fcfcfc;
+  border: 1px solid #ddd;
+  margin: 40px;
+}
+
+.donut-graph-container h4 {
+  font-size: 14px;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 100px;
+  padding: 3px 0;
+  width: 60px;
+  margin: 0 auto;
+}
